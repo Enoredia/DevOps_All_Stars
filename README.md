@@ -65,10 +65,10 @@ Git workflow
 Error handling
 Cloud resource management
 
-Future Enhancements
+Resources
 
-Implement data visualization
-Set up CI/CD pipeline
+ShaeInTheCloud: https://youtu.be/A95XBJFOqjw?si=PV0pgFPyjNFRFJeG
+Open weather API: https://openweathermap.org/api
 
 
 
